@@ -1,0 +1,73 @@
+*, ul {
+text-align: center;
+}
+.container   {
+ text-align: center;   
+}
+.asi {
+    display: inline-block;
+    text-align: left;
+}
+ul {
+    list-style-type: square;
+}
+button {
+    margin: 15px;
+    border: 3px solid #A264A0;
+    border-radius: 5px;
+    box-shadow: 6px 4px;
+}
+button:hover {
+    cursor: pointer;
+}
+#těšíš {
+    cursor: pointer;
+}
+.jedna:active {
+    color: #060106;
+    margin-top: 20px;
+    box-shadow: 0px 0px;
+}
+.dva:active {
+    color:#060106;
+    margin-top: 20px;
+    box-shadow: 0px 0px;
+}
+.tři:active {
+    color:#060106;
+    margin-top: 20px;
+    box-shadow: 0px 0px;
+}
+h1, h2 {
+    font-family: 'Raleway';
+}
+.jedna:visited {
+    background-color: black;
+}
+#betka {
+    width: 400px;
+    height: 450px;
+    float: left;
+    position: fixed;
+    top: 50px;
+    left: 20px;
+    border-radius: 25px;
+    overflow: hidden;
+}
+#tyna {
+    float: right;
+    width:  450px;
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    border-radius: 25px;
+}
+body {
+    background-color: #FFC7FD;
+}
+p {
+    width: 300px;
+    text-align: center;
+    position: sticky;
+    left: 530px;
+}
